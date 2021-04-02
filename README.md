@@ -1,2 +1,2 @@
 # devops-netology
-Hello!
+# с помощью маски в .gitignore будут исключены все лог файлы, кроме crash.log
