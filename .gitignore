@@ -1,0 +1,3 @@
+#ignore all .log files except crash logs
+!crash.log,*.log
+
